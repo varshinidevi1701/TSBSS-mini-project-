@@ -1,0 +1,2 @@
+# TSBSS-mini-project-
+Main objective of TSBSS is to encourage physically-abled people to do their work themselves and not to depend on others.Home automatic was difficult on those days but Now-a-days the human and computer interacted with help of IoT concepts.To develop this we use compact version of Arduino which is NODE MCU with small Wifi setup on the device to be controlled.Various appliances can be switched with this technology. TSBSS can be user-friendly and easily held by the physically abled.
